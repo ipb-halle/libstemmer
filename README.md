@@ -11,11 +11,13 @@ your local maven cache.
 
 You can then use the snowball stemmer by including 
 
+```
   <dependency>
     <groupId>org.tartarus</groupId>
     <artifactId>snowball</artifactId> 
     <version>2.0.0</version>
   </dependency>
+```
 
 in your `pom.xml`. 
 
