@@ -1,5 +1,5 @@
-= Mavenized Snowball Stemmer = 
-This project brings the Snowball stemmer [](https://snowballstem.org/) 
+# Mavenized Snowball Stemmer  
+This project brings the Snowball stemmer [https://snowballstem.org/](https://snowballstem.org/) 
 to your local Maven cache. Just clone this project and install it:
 
     git clone ...
@@ -22,6 +22,6 @@ in your `pom.xml`.
 **Note:** The artifact will be only available locally; there is currently no 
 deployment to central repositories (Maven Central Repository etc.)!
 
-== Licensing ==
+# Licensing 
 This code is released under the same BSD-3-Clause license as the snowball stemmer code
-[](https://github.com/snowballstem/snowball)
+[https://github.com/snowballstem/snowball](https://github.com/snowballstem/snowball)
