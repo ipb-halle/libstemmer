@@ -101,7 +101,7 @@ OF THE POSSIBILITY OF SUCH DAMAGE.
             <goal>wget</goal>
           </goals>
           <configuration>
-            <url>https://github.com/snowballstem/snowballstem.github.io/blob/master/dist/libstemmer_java.tgz?raw=true</url>
+            <url>https://github.com/snowballstem/snowball-website/raw/main/dist/libstemmer_java.tgz</url>
             <outputFileName>libstemmer_java.tar.gz</outputFileName>
             <!-- default target location, just to demonstrate the parameter -->
             <outputDirectory>${project.build.directory}</outputDirectory>
